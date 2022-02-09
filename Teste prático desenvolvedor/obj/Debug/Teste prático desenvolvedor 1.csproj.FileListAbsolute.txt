@@ -1,0 +1,8 @@
+C:\Users\vagne\source\repos\Teste prático desenvolvedor\Teste prático desenvolvedor\bin\Debug\Teste prático desenvolvedor.exe.config
+C:\Users\vagne\source\repos\Teste prático desenvolvedor\Teste prático desenvolvedor\bin\Debug\Teste prático desenvolvedor.exe
+C:\Users\vagne\source\repos\Teste prático desenvolvedor\Teste prático desenvolvedor\bin\Debug\Teste prático desenvolvedor.pdb
+C:\Users\vagne\source\repos\Teste prático desenvolvedor\Teste prático desenvolvedor\obj\Debug\Teste prático desenvolvedor 1.csproj.AssemblyReference.cache
+C:\Users\vagne\source\repos\Teste prático desenvolvedor\Teste prático desenvolvedor\obj\Debug\Teste prático desenvolvedor 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vagne\source\repos\Teste prático desenvolvedor\Teste prático desenvolvedor\obj\Debug\Teste prático desenvolvedor 1.csproj.CoreCompileInputs.cache
+C:\Users\vagne\source\repos\Teste prático desenvolvedor\Teste prático desenvolvedor\obj\Debug\Teste prático desenvolvedor.exe
+C:\Users\vagne\source\repos\Teste prático desenvolvedor\Teste prático desenvolvedor\obj\Debug\Teste prático desenvolvedor.pdb

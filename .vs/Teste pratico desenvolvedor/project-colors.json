@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "45611203-b0f7-46c3-8c2d-cb0512e591ff": {
+      "ProjectGuid": "45611203-b0f7-46c3-8c2d-cb0512e591ff",
+      "DisplayName": "Teste prático desenvolvedor 1",
+      "ColorIndex": 0
+    },
+    "db8f8e03-7c8e-4119-ba02-95264ad3a5d2": {
+      "ProjectGuid": "db8f8e03-7c8e-4119-ba02-95264ad3a5d2",
+      "DisplayName": "Teste prático desenvolvedor 2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
